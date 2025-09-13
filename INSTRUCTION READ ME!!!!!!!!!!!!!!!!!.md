@@ -1,3 +1,7 @@
+>
+> 上传者注: 这屎一样的文件就不要看了(～o￣3￣)～
+>
+
 First you must read this.
 Second this file will use this language:简体中文
 # 文件夹说明
@@ -35,3 +39,4 @@ Second this file will use this language:简体中文
     
 > ©Copyright CominPython6045 All Rights Reserved
  
+
