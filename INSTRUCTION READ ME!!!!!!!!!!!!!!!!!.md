@@ -1,5 +1,5 @@
 >
-> 上传者注: 这屎一样的文件就不要看了(～o￣3￣)～
+> 上传者注: 这屎一样的文件就不要看了(～o￣3￣)～   \n
 >   Uploader's note: Don't bother looking at this file (～o￣3￣)～
 
 First you must read this.
@@ -39,6 +39,7 @@ Second this file will use this language:简体中文
     
 > ©Copyright CominPython6045 All Rights Reserved
  
+
 
 
 
